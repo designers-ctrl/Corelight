@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="19.7143" height="19.4367" viewBox="0 0 19.7143 19.4367" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Wrap 1" opacity="0.72">
+<path id="Subtract" d="M0.323468 0.321289C1.04815 -0.402173 2.88327 0.132637 5.22068 1.56806C5.35228 1.64888 5.36149 1.83618 5.23938 1.93073C5.16649 1.98717 5.06626 1.99262 4.987 1.94556C3.43486 1.02404 2.26652 0.687228 1.8098 1.14355C1.11445 1.83934 2.25818 4.18789 4.5107 7.02724C4.75248 7.33201 4.70355 7.77716 4.39588 8.01524C4.0991 8.24489 3.6719 8.19442 3.44158 7.89816C0.675874 4.34051 -0.660282 1.30504 0.323468 0.321289Z" fill="url(#paint0_linear_0_546)"/>
+<path id="Subtract_2" d="M19.392 19.1144C18.6633 19.8426 16.8101 19.2991 14.4528 17.8447C14.2753 17.7352 14.2635 17.4823 14.4285 17.3546C14.5247 17.2801 14.6564 17.2711 14.7632 17.3294C16.1306 18.0766 17.1537 18.3164 17.5805 17.8908C18.2282 17.2431 17.3396 15.2175 15.4674 12.7001C15.2454 12.4015 15.298 11.9784 15.5923 11.7508C15.8843 11.525 16.3048 11.577 16.5281 11.8709C19.1199 15.2841 20.3448 18.1613 19.392 19.1144Z" fill="url(#paint1_linear_0_546)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_546" x1="3.5133" y1="6.78915" x2="2.87172" y2="-4.58368" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#009E40" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_546" x1="16.4063" y1="12.6496" x2="17.0868" y2="24.0145" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#1884D1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
